@@ -1,0 +1,7 @@
+﻿  ATM App.cpp
+  Debit.cpp
+  Economy.cpp
+  Generating Code...
+C:\Users\Denii\source\repos\ATM App\ATM App\Economy.cpp(34): warning C4715: 'Bank::checkPinn': not all control paths return a value
+C:\Users\Denii\source\repos\ATM App\ATM App\ATM App.cpp(69): warning C4715: 'checkPin': not all control paths return a value
+  ATM App.vcxproj -> C:\Users\Denii\source\repos\ATM App\x64\Debug\ATM App.exe
